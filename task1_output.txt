@@ -1,0 +1,29 @@
+1. Suburb 1: Anacostia
+   - Mean Price: $350,000
+   - Rental Vacancy: 5.0%
+   - Rental Yield: 5.5%
+   - Background Information: Anacostia is undergoing significant redevelopment and has access to public transportation. The area is becoming increasingly attractive due to its cultural history and community engagement initiatives.
+
+2. Suburb 2: Capitol Hill
+   - Mean Price: $800,000
+   - Rental Vacancy: 3.5%
+   - Rental Yield: 3.0%
+   - Background Information: Capitol Hill is known for its historic homes and proximity to the U.S. Capitol. It has a strong rental market, making it a popular choice among professionals and families.
+
+3. Suburb 3: Petworth
+   - Mean Price: $600,000
+   - Rental Vacancy: 4.2%
+   - Rental Yield: 4.0%
+   - Background Information: Petworth offers a mix of urban and suburban living with parks, schools, and shopping. It's becoming increasingly popular with young families and first-time homebuyers.
+
+4. Suburb 4: H Street Corridor
+   - Mean Price: $500,000
+   - Rental Vacancy: 4.5%
+   - Rental Yield: 4.5%
+   - Background Information: This vibrant area is known for its nightlife and dining options, making it an attractive place for younger renters and professionals.
+
+5. Suburb 5: Brookland
+   - Mean Price: $450,000
+   - Rental Vacancy: 4.0%
+   - Rental Yield: 4.2%
+   - Background Information: Brookland is home to a diverse community and offers a suburban feel with access to Metro stations. The neighborhood has a strong sense of community and is known for its parks and family-friendly atmosphere.
